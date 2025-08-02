@@ -26,5 +26,13 @@ This project simulates a basic intern portal with features like login authentica
 ---
 
 ## 📂 Project Structure
+├── index.html # Login page
+├── dashboard.html # Intern dashboard
+├── leaderboard.html # Leaderboard view
+├── script.js # JS logic for interactivity
+├── style.css # Main styles
+├── data.json # Dummy backend data
+└── README.md # Project overview
+
 
 
